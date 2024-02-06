@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "Securly - Fake Extension",
+    "description": "x",
+    "version": "1.0",
+    "icons": {
+        "16": "/images/placeholders/16.png",
+        "48": "/images/placeholders/48.png",
+        "128": "/images/placeholders/128.png"
+    },
+    "page_action": {
+        "default_icon": {
+            "16": "/images/securly/16.png",
+            "48": "/images/securly/48.png",
+            "128": "/images/securly/128.png"
+        }
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://*/*"],
+            "css": ["main.css"]
+        }
+    ]
+}

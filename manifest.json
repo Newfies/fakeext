@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "F-Ext",
-    "description": "x",
+    "description": "F-Ext, your favorite fake display extension",
     "version": "1.0",
     "icons": {
         "16": "/images/temp/16.png",

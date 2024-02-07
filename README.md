@@ -1,6 +1,10 @@
 # Fake Ext [F-Ext]
 F-Ext is a chrome extension built for anyone who wants to display the extension icon of their choice!
 
+## Badges
+![ReleasedBadge](https://img.shields.io/badge/Is_Released-Not_Yet-red)
+
+
 ## How It Works
 You need to have access one of the following
 * Your own personal email 

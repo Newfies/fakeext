@@ -3,7 +3,7 @@ F-Ext is a chrome extension built for anyone who wants to display the extension 
 
 ## Badges
 ![ReleasedBadge](https://img.shields.io/badge/Is_Released-Not_Yet-red)
-
+![ReleasedBadge](https://img.shields.io/badge/Latest_Version-1.1.0-green)
 
 ## How It Works
 You need to have access one of the following

@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "F-Ext",
     "description": "F-Ext, your favorite fake display extension",
-    "version": "1.1.0",
+    "version": "1.0.5",
     "icons": {
         "16": "/images/temp/16.png",
         "48": "/images/temp/48.png",
@@ -15,20 +15,11 @@
             "128": "/images/temp/128.png"
         }
     },
-    "permissions": [
-        "tabs",
-        "https://www.example.com/*",
-        "https://example.com/*"
-    ],
     "content_scripts": [
         {
             "matches": ["https://www.example.com/*", "https://example.com/*"],
             "css": ["main.css"],
             "js": ["main.js"]
         }
-    ],
-    "background": {
-        "scripts": ["background.js"],
-        "persistent": false
-    }
+    ]
 }

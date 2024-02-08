@@ -7,7 +7,8 @@ F-Ext is a chrome extension built for anyone who wants to display the extension 
 
 ## Errors
 The extension may displays a error, if you cannot find one here, post it in issues. here are the known ones so far.
-* ![ReleasedBadge](https://img.shields.io/badge/Ignore-green) "Manifest version 2 is deprecated" - this is just because the extension is using version 2, which isn't supported, this isn't a concern, just ignore this, the extension should function fine. 
+
+* [IGNORE] : "Manifest version 2 is deprecated" - this is just because the extension is using version 2, which isn't supported, this isn't a concern, just ignore this, the extension should function fine.     
 
 ## How It Works
 You need to have access one of the following
